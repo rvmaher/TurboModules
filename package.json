@@ -7,7 +7,8 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "turbo-android":"bash ./scripts/turbo-android.sh"
   },
   "dependencies": {
     "react": "18.3.1",
